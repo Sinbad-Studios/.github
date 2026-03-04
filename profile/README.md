@@ -36,6 +36,15 @@ We prioritize stability, clarity, and long-term playability in everything we shi
 
 ---
 
+## Internal Docs (Org Members Only)
+
+These internal guides are only accessible to members of the Sinbad Studios organization.
+
+- Web SPA integration guide: [internal-docs/WEB_SPA_INTEGRATION_GUIDE.md](https://github.com/Sinbad-Studios/internal-docs/blob/main/WEB_SPA_INTEGRATION_GUIDE.md)
+- Unity API integration guide: [internal-docs/UNITY_API_INTEGRATION_GUIDE.md](https://github.com/Sinbad-Studios/internal-docs/blob/main/UNITY_API_INTEGRATION_GUIDE.md)
+
+---
+
 ## Careers & Collaboration
 
 We’re always interested in connecting with developers, designers, and competitive gaming enthusiasts who value craftsmanship and performance.
